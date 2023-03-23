@@ -1,7 +1,5 @@
 # TypeScript
 
----
-
 ## Why TS ?
 
 - Detect Errors without running the code by `Static Type Check (STC)`.
